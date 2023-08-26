@@ -9,3 +9,7 @@ C:\Users\herdi\Documents\GitHub\price-calculator-for-moms-buissnes\Price calcula
 C:\Users\herdi\Documents\GitHub\price-calculator-for-moms-buissnes\Price calculator\Price calculator\obj\Debug\Price calculator.csproj.CoreCompileInputs.cache
 C:\Users\herdi\Documents\GitHub\price-calculator-for-moms-buissnes\Price calculator\Price calculator\obj\Debug\Price calculator.exe
 C:\Users\herdi\Documents\GitHub\price-calculator-for-moms-buissnes\Price calculator\Price calculator\obj\Debug\Price calculator.pdb
+C:\Users\herdi\Documents\GitHub\price-calculator-for-moms-buissnes\Price calculator\Price calculator\bin\Debug\Price calculator.exe.manifest
+C:\Users\herdi\Documents\GitHub\price-calculator-for-moms-buissnes\Price calculator\Price calculator\bin\Debug\Price calculator.application
+C:\Users\herdi\Documents\GitHub\price-calculator-for-moms-buissnes\Price calculator\Price calculator\obj\Debug\Price calculator.exe.manifest
+C:\Users\herdi\Documents\GitHub\price-calculator-for-moms-buissnes\Price calculator\Price calculator\obj\Debug\Price calculator.application
