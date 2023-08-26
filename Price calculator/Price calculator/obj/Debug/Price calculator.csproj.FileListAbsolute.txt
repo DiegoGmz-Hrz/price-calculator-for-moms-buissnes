@@ -1,0 +1,11 @@
+C:\Users\herdi\Documents\GitHub\price-calculator-for-moms-buissnes\Price calculator\Price calculator\bin\Debug\Price calculator.exe.config
+C:\Users\herdi\Documents\GitHub\price-calculator-for-moms-buissnes\Price calculator\Price calculator\bin\Debug\Price calculator.exe
+C:\Users\herdi\Documents\GitHub\price-calculator-for-moms-buissnes\Price calculator\Price calculator\bin\Debug\Price calculator.pdb
+C:\Users\herdi\Documents\GitHub\price-calculator-for-moms-buissnes\Price calculator\Price calculator\obj\Debug\Price calculator.csproj.AssemblyReference.cache
+C:\Users\herdi\Documents\GitHub\price-calculator-for-moms-buissnes\Price calculator\Price calculator\obj\Debug\Price calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\herdi\Documents\GitHub\price-calculator-for-moms-buissnes\Price calculator\Price calculator\obj\Debug\Price_calculator.Form1.resources
+C:\Users\herdi\Documents\GitHub\price-calculator-for-moms-buissnes\Price calculator\Price calculator\obj\Debug\Price_calculator.Properties.Resources.resources
+C:\Users\herdi\Documents\GitHub\price-calculator-for-moms-buissnes\Price calculator\Price calculator\obj\Debug\Price calculator.csproj.GenerateResource.cache
+C:\Users\herdi\Documents\GitHub\price-calculator-for-moms-buissnes\Price calculator\Price calculator\obj\Debug\Price calculator.csproj.CoreCompileInputs.cache
+C:\Users\herdi\Documents\GitHub\price-calculator-for-moms-buissnes\Price calculator\Price calculator\obj\Debug\Price calculator.exe
+C:\Users\herdi\Documents\GitHub\price-calculator-for-moms-buissnes\Price calculator\Price calculator\obj\Debug\Price calculator.pdb
