@@ -1,0 +1,15 @@
+C:\Users\herdi\Documents\GitHub\price-calculator-for-moms-buissnes\Price calculator\Price calculator\bin\Release\Price calculator.exe.config
+C:\Users\herdi\Documents\GitHub\price-calculator-for-moms-buissnes\Price calculator\Price calculator\bin\Release\Price calculator.exe.manifest
+C:\Users\herdi\Documents\GitHub\price-calculator-for-moms-buissnes\Price calculator\Price calculator\bin\Release\Price calculator.application
+C:\Users\herdi\Documents\GitHub\price-calculator-for-moms-buissnes\Price calculator\Price calculator\bin\Release\Price calculator.exe
+C:\Users\herdi\Documents\GitHub\price-calculator-for-moms-buissnes\Price calculator\Price calculator\bin\Release\Price calculator.pdb
+C:\Users\herdi\Documents\GitHub\price-calculator-for-moms-buissnes\Price calculator\Price calculator\obj\Release\Price calculator.csproj.AssemblyReference.cache
+C:\Users\herdi\Documents\GitHub\price-calculator-for-moms-buissnes\Price calculator\Price calculator\obj\Release\Price calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\herdi\Documents\GitHub\price-calculator-for-moms-buissnes\Price calculator\Price calculator\obj\Release\Price_calculator.Form1.resources
+C:\Users\herdi\Documents\GitHub\price-calculator-for-moms-buissnes\Price calculator\Price calculator\obj\Release\Price_calculator.Properties.Resources.resources
+C:\Users\herdi\Documents\GitHub\price-calculator-for-moms-buissnes\Price calculator\Price calculator\obj\Release\Price calculator.csproj.GenerateResource.cache
+C:\Users\herdi\Documents\GitHub\price-calculator-for-moms-buissnes\Price calculator\Price calculator\obj\Release\Price calculator.csproj.CoreCompileInputs.cache
+C:\Users\herdi\Documents\GitHub\price-calculator-for-moms-buissnes\Price calculator\Price calculator\obj\Release\Price calculator.exe.manifest
+C:\Users\herdi\Documents\GitHub\price-calculator-for-moms-buissnes\Price calculator\Price calculator\obj\Release\Price calculator.application
+C:\Users\herdi\Documents\GitHub\price-calculator-for-moms-buissnes\Price calculator\Price calculator\obj\Release\Price calculator.exe
+C:\Users\herdi\Documents\GitHub\price-calculator-for-moms-buissnes\Price calculator\Price calculator\obj\Release\Price calculator.pdb

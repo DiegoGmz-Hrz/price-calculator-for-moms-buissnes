@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Price calculator.exe" size="12752">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Price calculator.exe" size="12240">
       <assemblyIdentity name="Price calculator" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>+k+EeLgiVkXh8jQxsNhLG9b8ULPQqnutOd9vdZ6CDUY=</dsig:DigestValue>
+        <dsig:DigestValue>1XxWpLHlHGtQMln5V/nCdz+6AlzGXfxJyNv1O9PjAk4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
